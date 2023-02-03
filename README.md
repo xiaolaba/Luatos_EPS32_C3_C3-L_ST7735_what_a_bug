@@ -17,9 +17,9 @@ https://wiki.luatos.com/chips/esp32c3/hardware.html
 
 ### 這源碼  
 抄襲 https://github.com/WINKCM/Arduino-ESP32-TFTLCD-ST7735  
-自行改過的 
-[lcd1.ino](lcd1.ino)
-[LCD1.cpp](LCD1.cpp)  
+自行改過的  
+[lcd1.ino](lcd1.ino)  
+[LCD1.cpp](LCD1.cpp)   
 [lcd1.h](lcd1.h)  
 
 ### 這樣改  
