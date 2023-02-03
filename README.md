@@ -5,7 +5,7 @@ tested with a few LCD ST7735 libray, but no luck.
 
 there are two different board manufactured by Luatos
 
-the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. buy why was that ?  
+the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. bu why was that ?  
 
 
 Luatos 那個 ESP32C3 板子, 本來以為很容易, 結果上馬就翻車. 接上 ST7735 的 LCD, 有 CH343 的那個板沒事. 純粹 USB 的那板就是點不了 LCD, 燒寫完畢直接沒有啟動的樣子. 以為板子壞了, 換了幾個板都一樣, 真不知道貓膩哪裡了. 用或不用 GUI庫, 情形都相同. 給他燒了 LED跑馬燈, 確定沒問題, 燒寫後自動運行完全沒問題. 有大俠知道C3這顆祕密嗎. 還是遺漏了甚麼..  
