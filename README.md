@@ -40,6 +40,10 @@ https://wiki.luatos.com/chips/esp32c3/hardware.html
 #define BL 11
 ```
 
+### 接線圖  
+![circuit.JPG](circuit.JPG)  
+
+
 ### 這結果
 simple test code of repo and library TFT_eSPI demo code TFT_Clock  
 same bug, same result,  
