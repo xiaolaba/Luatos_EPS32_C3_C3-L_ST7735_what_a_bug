@@ -35,5 +35,7 @@ https://wiki.luatos.com/chips/esp32c3/hardware.html
 #define BL 11
 ```
 
-### 這結果  
+### 這結果
+simple test code of repo and library TFT_eSPI demo code TFT_Clock  
+same bug, same result,  
 ![NG.JPG](NG.JPG)  
