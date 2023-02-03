@@ -3,7 +3,9 @@ Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735
 
 tested with a few LCD ST7735 libray, but no luck.  
 
-there are two different board manufactured by Luatos
+there are two different boards manufactured by Luatos
+![CORE-ESP32-C3_L.JPG](CORE-ESP32-C3_L.JPG)  
+
 
 the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. bu why was that ?  
 
