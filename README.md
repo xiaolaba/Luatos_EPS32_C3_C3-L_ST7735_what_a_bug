@@ -54,3 +54,7 @@ same bug, same result,
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG)  
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG)  
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG)  
+
+老闆這樣建議  
+https://github.com/chenxuuu/luatos-wiki/discussions/11#discussioncomment-4863375  
+其實不知道要幹個嘛, 跟老師報告, 擱置, 有緣再說..
