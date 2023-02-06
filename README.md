@@ -48,3 +48,7 @@ https://wiki.luatos.com/chips/esp32c3/hardware.html
 simple test code of repo and library TFT_eSPI demo code TFT_Clock  
 same bug, same result,  
 ![NG.JPG](NG.JPG)  
+
+
+### Luatos 的原廠 demo 測試, 狀況依然 
+
