@@ -51,4 +51,4 @@ same bug, same result,
 
 
 ### Luatos 的原廠 demo 測試, 狀況依然 
-
+![Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG)  
