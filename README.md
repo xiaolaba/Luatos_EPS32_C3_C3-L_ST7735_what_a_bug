@@ -7,7 +7,7 @@ there are two different boards manufactured by Luatos
 ![CORE-ESP32-C3_L.JPG](CORE-ESP32-C3_L.JPG)  
 
 
-the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. bu why was that ?  
+the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. but why was that ?  
 
 
 Luatos 那個 ESP32C3 板子, 本來以為很容易, 結果上馬就翻車. 接上 ST7735 的 LCD, 有 CH343 的那個板沒事. 純粹 USB 的那板就是點不了 LCD, 燒寫完畢直接沒有啟動的樣子. 以為板子壞了, 換了幾個板都一樣, 真不知道貓膩哪裡了. 用或不用 GUI庫, 情形都相同. 給他燒了 LED跑馬燈, 確定沒問題, 燒寫後自動運行完全沒問題. 有大俠知道C3這顆祕密嗎. 還是遺漏了甚麼..  
@@ -55,6 +55,11 @@ same bug, same result,
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG)  
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG)  
 
-老闆這樣建議  
+老闆這樣建議, 其實不知道要幹個嘛   
 https://github.com/chenxuuu/luatos-wiki/discussions/11#discussioncomment-4863375  
-其實不知道要幹個嘛, 跟老師報告, 擱置, 有緣再說..
+
+### 跟老師報告, 擱置, 有緣再說..
+已經很懶惰了, 勉強開個 gdb 套個 Openocd, 看看 jtag debug 有甚麼一堆英文字跑出來, 其實是沒用的, 記號而已, 老師看過就滿足了.
+open 2 ESP-IDF console, OpenOCD and GDB on each, debugging sessions succeed
+![openocd_gdb.jpg](openocd_gdb.jpg)  
+
