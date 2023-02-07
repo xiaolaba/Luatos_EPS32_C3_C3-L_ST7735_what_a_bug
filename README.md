@@ -71,3 +71,8 @@ open 2 ESP-IDF console, OpenOCD and GDB on each, debugging sessions succeed
 espefuse.py -p PORT summary
 ```
 ![espefuse_check_no_response.JPG](espefuse_check_no_response.JPG)  
+
+
+### 看看電路圖比較  
+沒有特殊
+![schematic_comparasion.JPG](schematic_comparasion.JPG)  
