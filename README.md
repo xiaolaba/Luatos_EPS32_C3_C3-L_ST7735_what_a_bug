@@ -63,3 +63,11 @@ https://github.com/chenxuuu/luatos-wiki/discussions/11#discussioncomment-4863375
 open 2 ESP-IDF console, OpenOCD and GDB on each, debugging sessions succeed
 ![openocd_gdb.jpg](openocd_gdb.jpg)  
 
+
+### 查一下efuse
+它又不動作, 同樣COM8, 都是 esptool 呼叫的, 可以燒寫, 但是 espefuse 連不到 COM8, 醉了還是有坑, 不豬到...  
+
+```
+espefuse.py -p PORT summary
+```
+![espefuse_check_no_response.JPG](espefuse_check_no_response.JPG)  
