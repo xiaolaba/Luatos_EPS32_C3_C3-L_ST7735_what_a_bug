@@ -1,10 +1,20 @@
-# Luatos_EPS32_C3_C3-L_ST7735_what_a_bug
-Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735
+# Luatos_EPS32_C3_C3-L_ST7735_what_a_bug  
+Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735  
+
+Luatos_EPS32_C3, CH343 USB-UART chip is used.  
+Luatos_EPS32_C3-L, USG-JTAG only, GPIO18 and GPIO19 used, no CH343 used.  
+
 
 tested with a few LCD ST7735 libray, but no luck.  
 
 there are two different boards manufactured by Luatos
 ![CORE-ESP32-C3_L.JPG](CORE-ESP32-C3_L.JPG)  
+
+只好問問原廠 https://github.com/espressif/arduino-esp32/issues/7808  
+試試看這坑怎樣填....暫時裸奔還是不好的選擇, 配個 USB-UART chip 比較可靠.  
+
+
+
 
 
 the code, the same, the buring flash process the same, one is working and the other hang on reboot, did not work. but why was that ? 
