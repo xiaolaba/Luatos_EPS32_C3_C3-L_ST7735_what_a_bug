@@ -89,3 +89,7 @@ espefuse.py -p PORT summary
 ### 看看電路圖比較  
 沒有特殊
 ![schematic_comparasion.JPG](schematic_comparasion.JPG)  
+
+
+### 有興趣實際操作 RISCV asm 的話, 看看無妨.. 
+https://www.espressif.com/en/media_overview/news/risc-v-with-esp32-c3
