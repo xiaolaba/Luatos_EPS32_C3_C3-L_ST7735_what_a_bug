@@ -92,4 +92,5 @@ espefuse.py -p PORT summary
 
 
 ### 有興趣實際操作 RISCV asm 的話, 看看無妨.. 
-https://www.espressif.com/en/media_overview/news/risc-v-with-esp32-c3
+https://www.espressif.com/en/media_overview/news/risc-v-with-esp32-c3  
+只有墊子書, 梅印刷本, https://www.elektor.com/risc-v-assembly-language-programming-using-esp32-c3-and-qemu  
