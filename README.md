@@ -1,6 +1,12 @@
 # Luatos_EPS32_C3_C3-L_ST7735_what_a_bug  
-Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735  
 
+
+### 2021-11-12 update, seems bug fixed
+v1005
+
+
+### Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735  
+testing under v1002/v1003
 Luatos_EPS32_C3, CH343 USB-UART chip is used.  
 Luatos_EPS32_C3-L, GPIO18 and GPIO19 used for USG-JTAG, no CH343 used.  
 
