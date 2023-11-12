@@ -63,7 +63,19 @@ same bug, same result,
 ![NG.JPG](NG.JPG)  
 
 
-### Luatos 的原廠 demo 測試, 狀況依然 
+### Luatos 的原廠 demo 測試, 狀況依然  
+update : 2023-11-12  lutaostoo.exe download link & recap,  
+https://wiki.luatos.com/chips/esp32c3/index.html  
+
+https://wiki.luatos.com/pages/tools.html  
+E:\Luatos esp32c3 firmware\  
+Luatools_v2.2.15.exe  
+
+update and download, vcore for C3
+E:\Luatos esp32c3 firmware\resource\esp32c3_lua_lod  
+core_V1005
+
+
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_firmware_burn_test.JPG)  
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_demo_log.JPG)  
 ![Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG](Luatos_core_V1002_test_result/Luatos_esp32c3_lcd_project_log.JPG)  
