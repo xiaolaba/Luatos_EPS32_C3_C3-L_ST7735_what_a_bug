@@ -2,7 +2,10 @@
 
 
 ### 2021-11-12 update, seems bug fixed
-v1005
+v1005 used
+![Luatos_core_V1005_bug_fixed/V1005_bug_fixed.jpg](Luatos_core_V1005_bug_fixed/V1005_bug_fixed.jpg)  
+code, 
+![Luatos_core_V1005_bug_fixed/main.lua](Luatos_core_V1005_bug_fixed/main.lua)  
 
 
 ### Luatos core-esp32c3 and core-esp32c3L, very different response by LCD ST7735  
