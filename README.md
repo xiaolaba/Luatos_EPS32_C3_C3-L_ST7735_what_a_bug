@@ -2,7 +2,10 @@
 
 
 ### 2021-11-12 update, seems bug fixed
-v1005 used
+uses lutaostool.exe to flash code v1005 used
+![Luatos_core_V1005_bug_fixed/LuatOS-SoC_V1005_ESP32C3.soc](Luatos_core_V1005_bug_fixed/LuatOS-SoC_V1005_ESP32C3.soc)  
+LuatOS-SoC_V1005_ESP32C3.soc
+
 ![Luatos_core_V1005_bug_fixed/V1005_bug_fixed.jpg](Luatos_core_V1005_bug_fixed/V1005_bug_fixed.jpg)  
 code, 
 ![Luatos_core_V1005_bug_fixed/main.lua](Luatos_core_V1005_bug_fixed/main.lua)  
