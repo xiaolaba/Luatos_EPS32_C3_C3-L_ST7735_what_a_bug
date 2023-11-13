@@ -2,7 +2,7 @@
 
 
 ### 2023-11-12 update, seems bug fixed
-uses [lutaostool.exe](https://github.com/xiaolaba/Luatos_EPS32_C3_C3-L_ST7735_what_a_bug/blob/main/README.md#luatos-%E7%9A%84%E5%8E%9F%E5%BB%A0-demo-%E6%B8%AC%E8%A9%A6-%E7%8B%80%E6%B3%81%E4%BE%9D%E7%84%B6) to flash core v1005  
+uses [luatools.exe](https://github.com/xiaolaba/Luatos_EPS32_C3_C3-L_ST7735_what_a_bug/blob/main/README.md#luatos-%E7%9A%84%E5%8E%9F%E5%BB%A0-demo-%E6%B8%AC%E8%A9%A6-%E7%8B%80%E6%B3%81%E4%BE%9D%E7%84%B6) to flash core v1005  
 v1005 core file    
 [Luatos_core_V1005_bug_fixed/LuatOS-SoC_V1005_ESP32C3.soc](Luatos_core_V1005_bug_fixed/LuatOS-SoC_V1005_ESP32C3.soc)  
 
@@ -77,7 +77,7 @@ same bug, same result,
 
 
 ### Luatos 的原廠 demo 測試, 狀況依然  
-update : 2023-11-12  lutaostoo.exe download link & recap,  
+update : 2023-11-12  Luatools.exe download link & recap,  
 https://wiki.luatos.com/chips/esp32c3/index.html  
 
 https://wiki.luatos.com/pages/tools.html  
